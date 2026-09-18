@@ -22,7 +22,7 @@ metadata:
     version: "1.0.1"
     level: L3
     category: 效率工具
-    tags: ["Excel", "CSV", "数据清洗", "透视表", "表格汇总"]
+    tags: ["Excel", "数据清洗", "透视表", "表格汇总"]
     sensitive: false
     allow_implicit_invocation: true
 ---
