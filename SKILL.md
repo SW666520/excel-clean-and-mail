@@ -15,7 +15,7 @@ description: |
 metadata:
   dumate:
     displayName: "表格清洗官"
-    summary: "体检并清洗本地 Excel/CSV 表格：修正表头、规范日期与金额格式、去重去空行，按需生成分组汇总或透视表，并将清洗结果通过网易邮箱发送给指定收件人。原文件只读，结果输出到新文件。"
+    summary: "体检并清洗本地 Excel 表格：修正表头、规范日期与金额格式、去重去空行，按需生成分组汇总或透视表，并将清洗结果通过网易邮箱发送给指定收件人。原文件只读，结果输出到新文件。"
     publisher: "DuMate"
     icon: "assets/icon.png"
     publishedAt: 1789660800000
