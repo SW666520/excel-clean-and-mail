@@ -1,0 +1,16 @@
+{
+  "sheet": "销售明细",
+  "header_row": 4,
+  "strip_whitespace": true,
+  "to_datetime": ["订单日期"],
+  "to_numeric": ["销售数量", "销售额"],
+  "drop_total_rows": ["订单日期"],
+  "drop_blank_rows": true,
+  "drop_duplicates": true,
+  "pivot": {
+    "index": ["区域"],
+    "columns": ["渠道"],
+    "values": ["销售额"],
+    "agg": "sum"
+  }
+}

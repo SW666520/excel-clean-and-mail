@@ -1,0 +1,8 @@
+{
+  "smtp_host": "smtp.163.com",
+  "smtp_port": 465,
+  "use_ssl": true,
+  "sender_email": "你的网易邮箱账号@163.com",
+  "auth_code": "你的16位SMTP授权码",
+  "default_to": ""
+}
